@@ -6,6 +6,8 @@ permalink: /index.html
 
 My name is Jayaprakash Sundararaj (JP for short). I have 12 years of Professional experience in Software Industry. Out of which, 10+ years of experience in Google Inc, where I worked in <ins>Search Ranking</ins>, <ins>Recommendation Systems</ins>, <ins> On Device Search </ins> and working with <ins>large scale systems</ins>. I have led and mentored a number of engineers in the team with proven record of successfull projects launches with metrics improvement.
 
+You are welcome to send an email. I can be reached at `os [first-name] [at] gmail [dot] com`.
+
 ### Expertise
   * **Areas**: Natural Language Processing, Machine Learning, Artificial Intelligence, Information retrieval
   * **Programming**: C++, Kotlin, Python
