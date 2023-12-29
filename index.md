@@ -9,10 +9,11 @@ My name is Jayaprakash Sundararaj (JP for short). I have 12 years of Professiona
 ### Expertise
   * **Areas**: Natural Language Processing, Machine Learning, Artificial Intelligence, Information retrieval
   * **Programming**: C++, Kotlin, Python
+  * **Frameworks**: Tensorflow, MapReduce (~Spark), BigTable/SSTable (~HBase/Cassandra), Protobuf (Data Serialization)
 
 ### Masters at IIT, Bombay
 
-I have completed M.Tech (Computer Science and Engineering) in IIT Bombay (2012-14). The post-graduation primarily focused on NLP, ML and Information Retrieval. During the post-graduation, I have interned at Yahoo! Multimedia team to improve the image search relevance.
+I have completed M.Tech (Computer Science and Engineering) in IIT Bombay from 2012 to 14. Post graduation studies primarily focused on NLP, ML and Information Retrieval. Also, I got an internship oppurtunity to work in Yahoo! Multimedia Team which focused improving <ins> Image Search Relevance </ins>.
 
 I've taken the following courses from IITB,
   * Machine Learning
