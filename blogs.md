@@ -24,3 +24,9 @@ There are lot of smart people out there and I'm fortunate that they put effort i
 * [www.aaronsw.com](http://www.aaronsw.com/)
   * Aaron Swartz was CEO of Reddit and author of RSS. 
   * He is deceased, however this blog is still active, and contents from his blog are useful.
+* [Innerworth - Mind over markets](https://zerodha.com/varsity/module/innerworth/)
+  * Blogs posts written about mindset required for trading.
+  * The advices can useful in life other than trading.
+* [Mr Money Mustache](https://www.mrmoneymustache.com/)
+  * Lifestyle and financial tips.
+ 
