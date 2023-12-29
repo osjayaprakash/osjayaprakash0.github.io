@@ -6,7 +6,15 @@
 1. If you’re thinking without writing, you only think you’re thinking.
 
    *Leslie Lamport*
+
+1. When we are no longer able to change a situation, we are challenged to change ourselves.
+
+   *Viktor Frankl*
   
+1. Those who have a **why** to live, can bear with almost any **how**.
+
+   *Viktor Frankl*
+
 1. Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.
    
    *Lao Tzu*
