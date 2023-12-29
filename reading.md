@@ -2,6 +2,16 @@
 permalink: /reading.html
 ---
 
+### Techinical Books
+
+  * [Deep learning](https://www.deeplearningbook.org/)
+    * Written by Ian Goodfellow
+    * This book is publically available to download.
+  * TODO
+
+
+### Blogs
+
 The following are some of the blogs which I read regularly. I find these blogs interesting to me and you may find it interesting as well. 
 
 There are lot of smart people out there and I'm fortunate that they put effort into sharing what they learned and questioning.
