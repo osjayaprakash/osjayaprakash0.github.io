@@ -13,7 +13,7 @@ You are welcome to send an email. I can be reached at `os [first-name] [at] gmai
   * **Programming**: C++, Kotlin, Python
   * **Frameworks**: Tensorflow, MapReduce (~Spark), BigTable/SSTable (~HBase/Cassandra), Protobuf (Data Serialization)
 
-### Masters at IIT, Bombay
+### Masters at IIT Bombay
 
 I have completed M.Tech (Computer Science and Engineering) in IIT Bombay from 2012 to 14. Post graduation studies primarily focused on NLP, ML and Information Retrieval. Also, I got an internship oppurtunity to work in Yahoo! Multimedia Team which focused improving <ins> Image Search Relevance </ins>.
 
