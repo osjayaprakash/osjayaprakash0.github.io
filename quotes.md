@@ -1,6 +1,8 @@
 
 > Somewhere in the world, an unknown young person is probably starting a company now that will eventually be as big as today's tech giants. - Sam Altman
 
+> If you’re thinking without writing, you only think you’re thinking. - Leslie Lamport
+
 > Being deeply loved by someone gives you strength, while loving someone deeply gives you courage. - Lao Tzu
 
 > Any sufficiently advanced technology is indistinguishable from magic - Arthur C Clarke
