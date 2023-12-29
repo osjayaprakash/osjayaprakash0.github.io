@@ -22,3 +22,19 @@
 1. I never understand anything until I have written about it.
    
    *Horace Walpole*
+   
+1. How we spend our days is, of course, how we spend our lives.
+
+   *Annie Dillard*
+
+1. Focus is saying NO.
+
+   *Steve Jobs*
+
+1. Keep away from people who try to belittle your ambitions. Small people always do that, but the really great make you feel that you, too, can become great.
+
+   *Mark Twain*
+   
+1. However little television you watch, watch less.
+
+   *David McCullough*
