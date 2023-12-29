@@ -1,6 +1,6 @@
 /* Add a black background color to the top navigation */
 .topnav {  
-  background-color: #eee;
+  /*background-color: #eee;*/
   overflow: hidden;
 }
 
@@ -10,9 +10,9 @@
   /*color: black;*/
   text-align: center;
   padding: 14px 16px;
-  /*text-decoration: none;
-  text-decoration: underline bold; */
-  font-size: 15px;
+  /*text-decoration: none;*/
+  text-decoration: underline;
+  font-size: 17px;
   font-weight: bold;
 }
 
