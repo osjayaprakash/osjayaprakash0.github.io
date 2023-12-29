@@ -1,5 +1,5 @@
 ---
-permalink: /blogs.html
+permalink: /reading.html
 ---
 
 The following are some of the blogs which I read regularly. I find these blogs interesting to me and you may find it interesting as well. 
