@@ -1,6 +1,6 @@
 ---
 title: "Jayaprakash Sundararaj"
-shortTitle: " "
+shortTitle: 
 permalink: /index.html
 ---
 
@@ -8,7 +8,7 @@ My name is Jayaprakash Sundararaj (JP for short). I have 12 years of Professiona
 
 You are welcome to send an email. I can be reached at `os[my-first-name]@gmail.com`.
 
-### Expertise
+#### Expertise
   * **Areas**: Natural Language Processing, Machine Learning, Artificial Intelligence, Information retrieval
   * **Programming**: C++, Kotlin, Python
   * **Frameworks**: Tensorflow, MapReduce (~Spark), BigTable/SSTable (~HBase/Cassandra), Protobuf (Data Serialization)
