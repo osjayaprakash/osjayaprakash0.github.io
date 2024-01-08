@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Beginning to write"
+title:  "Listening: It is not about the nail"
 categories: misc
 ---
 
