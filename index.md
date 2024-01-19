@@ -36,7 +36,6 @@ I also served as a Teaching Assistant for following courses,
   * Distributed Systems
 
 ### Online Presence
-  * [github](https://github.com/osjayaprakash)
   * [spoj](https://www.spoj.com/) (retired currently; I got a peak ranking of <1000 among all worldwide participants.)
   * [linkedin](https://www.linkedin.com/in/osjayaprakash/)
   * [goodreads](https://www.goodreads.com/user/show/173170284-jayaprakash)
