@@ -1,3 +1,14 @@
+---
+title: "Favorite Quotes"
+shortTitle: 
+permalink: /quotes.html
+---
+
+##### Favourite Quotes
+
+1. The dangers of life are infinite, and among them is safety. 
+
+   *Gothe*
 
 1. Somewhere in the world, an unknown young person is probably starting a company now that will eventually be as big as today's tech giants.
 
@@ -46,3 +57,9 @@
 1. However little television you watch, watch less.
 
    *David McCullough*
+
+1. Successful people create companies.  More successful people create countries.  The most successful people create religions.
+
+  *Qi Liu*
+
+

@@ -1,24 +1,31 @@
 ---
+title: "Reading List"
+shortTitle: 
 permalink: /reading.html
 ---
 
-### Techinical Books
+##### Eng Books
 
   * [Deep learning](https://www.deeplearningbook.org/)
-    * Written by Ian Goodfellow
-    * This book is publically available to download.
-  * TODO
+    * Written by Ian Goodfellow. This book is free to download.
 
+##### Books
 
-### Blogs
+  * Zero to one
+  * Atomic habits
+  * Emotional intelligence
+  * Radical Candor
+  * The hard thing about hard things
+  * Elon musk
+
+##### Blogs
 
 The following are some of the blogs which I read regularly. I find these blogs interesting to me and you may find it interesting as well. 
 
 There are lot of smart people out there and I'm fortunate that they put effort into sharing what they learned and questioning.
 
 * [blog.samaltman.com](https://blog.samaltman.com/)
-  * Sam Alman current CEO of OpenAI.
-  * Sam writes about Self Improvement, Startups, Innovation, etc in his blog.
+  * Sam Alman current CEO of OpenAI. Sam writes about Self Improvement, Startups, Innovation, etc in his blog.
 * [patrickcollison.com](https://patrickcollison.com/)
   * Co-founder and CEO of Stripe
 * [www.paulgraham.com](https://www.paulgraham.com/)
@@ -32,11 +39,9 @@ There are lot of smart people out there and I'm fortunate that they put effort i
 * [zenhabits.net](https://zenhabits.net/archives/)
   * Zen Habits
 * [www.aaronsw.com](http://www.aaronsw.com/)
-  * Aaron Swartz was CEO of Reddit and author of RSS. 
-  * He is deceased, however this blog is still active, and contents from his blog are useful.
+  * Aaron Swartz was CEO of Reddit and author of RSS. He is deceased, however, this blog is still active and contents from his blog are useful.
 * [Innerworth - Mind over markets](https://zerodha.com/varsity/module/innerworth/)
-  * Blogs posts written about mindset required for trading.
-  * The advices can useful in life other than trading.
+  * Blogs posts written about mindset required for trading. The advices can useful in life other than trading.
 * [Mr Money Mustache](https://www.mrmoneymustache.com/)
   * Lifestyle and financial tips.
  
