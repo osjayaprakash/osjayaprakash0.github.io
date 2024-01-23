@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  2021 - Geoffrey Hinton's speech at IIB Convocation
+title:  2021 - Geoffrey Hinton's speech at IITB Convocation
 categories: misc
 ---
 
@@ -19,7 +19,8 @@ Highlights of the speech:
     * Good ideas emerge from paradoxes (from Hinton's experience).
     * It is unacceptable for researchers, until they turn the paradoxes into wisdom.
   * [fact] Idea of deep neural network can learn from large amount of data was considered silly.
-    * They were told that there were no place for ML in the international conference.
+    * Yoshua bengio were told that there were no place for ML in the international conference.
+    * Yann LeCun's paper was rejected at Vision conference.
     * Alan turing and Von neuman didn't believe that the neural network can mimic human brain computation.
     * Noam Chomsky (linguist) opposed the idea of neural network as well.
   * Scientific cult can't survive long period of time.
