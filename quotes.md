@@ -60,6 +60,10 @@ permalink: /quotes.html
 
 1. Successful people create companies.  More successful people create countries.  The most successful people create religions.
 
-  *Qi Liu*
+   *Qi Liu*
+
+1. Dont whine, dont complain, dont make excuses.  You get out there and whatever your doing, do to the BEST of your ability.  And no one can do more than that.
+
+   *John Wooden*
 
 
