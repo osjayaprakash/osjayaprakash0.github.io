@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  2021 - Geoffrey Hinton's speech at IITB Convocation
+title:  Geoffrey Hinton's speech at IITB Convocation
 categories: misc
 ---
 
