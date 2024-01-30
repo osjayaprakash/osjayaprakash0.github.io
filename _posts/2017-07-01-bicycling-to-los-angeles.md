@@ -34,46 +34,42 @@ My friend and I bicycled from South Bay Area to Los Angeles in 2017. This blog i
    * I was completely sun burnt at the end of the trip. Riding in July Summer is simply roasting myself in oven.
 
 
-#### Day 1 (88 miles, 12 hours, 800 ft):
- * Day 1 was started from Santa Cruz. Our friends had dropped us in Santa Cruz in the early morning. 
- * We had a breakfast and coffee from a small restaraunt there. We took a customary photo before the first petal, and we started to petal in Santa Cruz down. Santa Cruz neighbourhood roads are slopy. I felt too much pain in the legs in first 30 mins into it. 
- * Biking through strawberry fields was great with nice smell. It also created craving for food.
- * The final stretch was bit difficult part of the day. We had to ride along the 101 freewway shoulders, at 9PM in the pitch dark. 
- * We planned to bike for 40 miles in first day, however after lunch, we pushed for 88 miles. 
-
-| <img src="/imgs/biking_la_2nd_day.jpg" alt="Bicycling to LA" width="450"/> <br> Warming up before getting ready to sleep |
-
-
-#### Day 2
-
-| <img src="/imgs/biking_la_breakfast.jpg" alt="Bicycling to LA" width="450"/> <br> Havign breakfast at Denny's |
-
-  * We were more confident on the second day. We have tried to keep the distance smaller compared to first day.
-  * First half of the day was riding in a desert. No mobile signals. We had to rely on our intuition for direction.
-  * We had stopped for Lunch in a small town. Then tooks nap outside the restaurant. The had benches outside, we just slep in there for an hour. Getting sleep was easy with all the pedalling.
-  * 
+#### Summary
+ * On Day 1: We pedaled for 90 miles which was much higher than originally planned for 35 miles.
+ * On Day 1: We had to bike in highway 101 at 9PM. It was pitch dark night.
+ * On Day 2: We were confident that we could complete the trip.
+ * On Day 2: We realized that Google Maps is not good. Most of trails lead us to private property (with a sign saying that trespassers will be prosecuted). We had to make difficult decisions, just trust our intutions, ride along freeway for sometime.
+ * On Day 2: We ended up the trip early compared to first day fearing that riding in highway dangerous and uncertainity on which trail is closed or open.
+ * On Day 3: We had to ride down over 1200 ft. Trust me it is difficult to control the bike in the downhill. It is much dangerous when the downhill is a freeway shoulder. We should never break, easy way to loose control and fall in the road.
+ * On Day 4: It was independence day. A lot of cars on the road. It seems like they were annoyed seeing two people on cycles. We were constantly honked.
+ * On Day 5: This is the most peaceful day. 1st day went as per our plan.
+ * On Day 6: We reached close to Highway 1 and riding along the coastal shore had great view.
+ * On Day 7: Back to civilization. Santa Monica beach. Nice views.
+ * On Day 8: Ride to LA
+ * On Day 9: Fly back to San Francisco.
 
 
+#### Selected Photos
 
+<table>
+ <tr><td><img src="/imgs/biking_la_2nd_day.jpg" alt="Bicycling to LA" width="450"/></td></tr>
+ <tr><td>Day 1: Warming up before getting ready to sleep. </td></tr>
+</table>
 
+<table>
+ <tr><td><img src="/imgs/biking_la_breakfast.jpg" alt="Bicycling to LA" width="450"/></td></tr>
+ <tr><td>Day 2: Having breakfast at Denny's </td></tr>
+</table>
 
-#### Day 3
+<table>
+ <tr><td><img src="/imgs/biking_la_san_luis.jpg" alt="Bicycling to LA" width="450"/></td></tr>
+ <tr><td> On 101 freeway near San Luis Obispo. </td></tr>
+</table>
 
-| <img src="/imgs/biking_la_san_luis.jpg" alt="Bicycling to LA" width="450"/> <br> On 101 freeway near San Luis Obispo |
-
-
-#### Day 4
-
-| <img src="/imgs/biking_la_4th_day.jpg" alt="Bicycling to LA" width="450"/> <br> 4th day; somewhere on a hill <br> with beautiful clouds at distance |
-
-#### Day 5
-
-#### Day 6
-
-
-
-
-
+<table>
+ <tr><td><img src="/imgs/biking_la_4th_day.jpg" alt="Bicycling to LA" width="450"/></td></tr>
+ <tr><td> Day 5: Somewhere on a hill with beautiful clouds at <br> distance. The most peaceful day. <br> The first ended as we planned. </td></tr>
+</table>
 
 
 
