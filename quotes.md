@@ -20,6 +20,7 @@ permalink: /quotes.html
 
    *George Bernad Shaw*
 
+1. There is a door we all want to walk through, and writing can help you find it and open it. Writing can give you what having a baby can give you: it can get you to start paying attention, can help you soften, can wake you up. But publishing won’t do any of those things; you’ll never get in that way.
 
 #### Facing challenges
 
@@ -49,8 +50,6 @@ permalink: /quotes.html
 1. Some decisions are consequential and irreversible or nearly irreversible – one-way doors – and these decisions must be made methodically, carefully, slowly, with great deliberation and consultation. If you walk through and don’t like what you see on the other side, you can’t get back to where you were before. We can call these Type 1 decisions. But most decisions aren’t like that – they are changeable, reversible – they’re two-way doors. If you’ve made a suboptimal Type 2 decision, you don’t have to live with the consequences for that long. You can reopen the door and go back through. Type 2 decisions can and should be made quickly by high judgment individuals or small groups.
 
    *Jeff bezos*
-
-
 
 #### Misc
 
