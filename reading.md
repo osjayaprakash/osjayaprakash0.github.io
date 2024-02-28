@@ -4,12 +4,12 @@ shortTitle:
 permalink: /reading.html
 ---
 
-##### Eng Books
+##### ENG BOOKS
 
   * [Deep learning](https://www.deeplearningbook.org/)
     * Written by Ian Goodfellow. This book is free to download.
 
-##### Books
+##### BOOKS
 
   * Zero to one
   * Atomic habits
@@ -18,7 +18,7 @@ permalink: /reading.html
   * The hard thing about hard things
   * Elon musk
 
-##### Blogs
+##### BLOGS
 
 The following are some of the blogs which I read regularly. I find these blogs interesting to me and you may find it interesting as well. 
 
