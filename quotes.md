@@ -25,6 +25,8 @@ permalink: /quotes.html
 
 1. Focus is saying NO. -- *Steve Jobs*
 
+   * The most powerful productivity tool ever invented is simply the word no 
+
 1. Dont whine, dont complain, dont make excuses.  You get out there and whatever your doing, do to the BEST of your ability.  And no one can do more than that. -- *John Wooden*
    
 3. Bad things do happen; how I respond to them defines my character and the quality of my life. I can choose to sit in perpetual sadness, immobilized by the gravity of my loss, or I can choose to rise from the pain and treasure the most precious gift I have life itself. -- *Walter Anderson*
