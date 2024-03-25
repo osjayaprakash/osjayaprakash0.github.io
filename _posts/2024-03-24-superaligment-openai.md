@@ -15,6 +15,7 @@ permalink: OpenAI Superalignment
 * How will this be superalignment be solved?
   * No concrete idea or directions.
   * OpenAI have 10M USD grant for researchers and non-profits who work on this problem.
+  * It is hard to predict because the super-intelligence doesn't exist.
 * Possible directions:
   * Weak-to-strong generalization
     * Can we use weak models to supervise and evaluate the strong models?
@@ -30,4 +31,6 @@ permalink: OpenAI Superalignment
   * CoT faithfulness
   * Adversarial robustness
 * Reference
-  * [open ai blog](https://openai.com/blog/superalignment-fast-grants) 
+  * [open ai blog](https://openai.com/blog/superalignment-fast-grants)
+  * [mit tech review](https://www.technologyreview.com/2023/12/14/1085344/openai-super-alignment-rogue-agi-gpt-4/)
+  *  
