@@ -2,6 +2,7 @@
 title: "Jayaprakash Sundararaj"
 shortTitle: 
 permalink: /index.html
+layout: about
 ---
 
 ##### INTRODUCTION
